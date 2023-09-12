@@ -1,0 +1,98 @@
+---
+id: dp6-6
+name: Heatran
+supertype: Pokémon
+subtypes:
+- Basic
+level: '47'
+hp: '100'
+types:
+- Fire
+abilities:
+- name: Flash Fire
+  text: Once during your turn (before your attack), you may move a Fire Energy attached
+    to 1 of your Pokémon to Heatran. This power can't be used if Heatran is affected
+    by a Special Condition.
+  type: Poké-Power
+attacks:
+- name: Magma Storm
+  cost:
+  - Fire
+  - Fire
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 4
+  damage: 40+
+  text: You may discard as many basic Energy cards as you like attached to Heatran.
+    If you do, this attack does 40 damage plus 20 more damage for each Energy card
+    you discarded.
+weaknesses:
+- type: Water
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 4
+set:
+  id: dp6
+  name: Legends Awakened
+  series: Diamond & Pearl
+  printedTotal: 146
+  total: 146
+  legalities:
+    unlimited: Legal
+  ptcgoCode: LA
+  releaseDate: 2008/08/01
+  updatedAt: 2018/03/04 10:35:00
+  images:
+    symbol: https://images.pokemontcg.io/dp6/symbol.png
+    logo: https://images.pokemontcg.io/dp6/logo.png
+number: '6'
+artist: Kent Kanetsuna
+rarity: Rare Holo
+flavorText: It dwells in volcanic caves. It digs in with its cross-shaped feet to
+  crawl on ceilings and walls.
+nationalPokedexNumbers:
+- 485
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/dp6/6.png
+  large: https://images.pokemontcg.io/dp6/6_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/dp6-6
+  updatedAt: 2023/09/11
+  prices:
+    holofoil:
+      low: 3.5
+      mid: 6.68
+      high: 9.99
+      market: 7.78
+      directLow: 
+    reverseHolofoil:
+      low: 3.93
+      mid: 7.49
+      high: 14.95
+      market: 8.99
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/dp6-6
+  updatedAt: 2023/09/11
+  prices:
+    averageSellPrice: 0.0
+    lowPrice: 0.45
+    trendPrice: 2.62
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.63
+    reverseHoloLow: 0.5
+    reverseHoloTrend: 2.07
+    lowPriceExPlus: 0.99
+    avg1: 1.5
+    avg7: 2.17
+    avg30: 2.28
+    reverseHoloAvg1: 0.5
+    reverseHoloAvg7: 2.62
+    reverseHoloAvg30: 2.18

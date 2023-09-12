@@ -1,0 +1,95 @@
+---
+id: dp6-54
+name: Exeggutor
+supertype: Pokémon
+subtypes:
+- Stage 1
+level: '43'
+hp: '80'
+types:
+- Psychic
+evolvesFrom: Exeggcute
+attacks:
+- name: Psychic Strategy
+  cost: []
+  convertedEnergyCost: 0
+  damage: ''
+  text: Each player counts the number of cards in his or her opponent's hand. Each
+    player shuffles his or her hand into his or her deck. Then, each player draws
+    a number of cards up to the number of cards his or her opponent had. (You draw
+    your cards first.)
+- name: Super Eggsplosion
+  cost:
+  - Psychic
+  convertedEnergyCost: 1
+  damage: 50×
+  text: Discard as many Energy cards as you like attached to your Pokémon. For each
+    Energy card you discarded, flip a coin. This attack does 50 damage times the number
+    of heads.
+weaknesses:
+- type: Psychic
+  value: "+20"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: dp6
+  name: Legends Awakened
+  series: Diamond & Pearl
+  printedTotal: 146
+  total: 146
+  legalities:
+    unlimited: Legal
+  ptcgoCode: LA
+  releaseDate: 2008/08/01
+  updatedAt: 2018/03/04 10:35:00
+  images:
+    symbol: https://images.pokemontcg.io/dp6/symbol.png
+    logo: https://images.pokemontcg.io/dp6/logo.png
+number: '54'
+artist: Ken Sugimori
+rarity: Uncommon
+flavorText: It is called "The Walking Jungle." If a head grows too big, it falls off
+  and becomes an Exeggcute.
+nationalPokedexNumbers:
+- 103
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/dp6/54.png
+  large: https://images.pokemontcg.io/dp6/54_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/dp6-54
+  updatedAt: 2023/09/11
+  prices:
+    normal:
+      low: 0.15
+      mid: 0.36
+      high: 1.25
+      market: 0.23
+      directLow: 0.3
+    reverseHolofoil:
+      low: 0.24
+      mid: 0.87
+      high: 2.75
+      market: 0.97
+      directLow: 0.54
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/dp6-54
+  updatedAt: 2023/09/11
+  prices:
+    averageSellPrice: 0.25
+    lowPrice: 0.02
+    trendPrice: 0.26
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.22
+    reverseHoloLow: 0.15
+    reverseHoloTrend: 0.77
+    lowPriceExPlus: 0.19
+    avg1: 0.2
+    avg7: 0.26
+    avg30: 0.32
+    reverseHoloAvg1: 0.22
+    reverseHoloAvg7: 0.71
+    reverseHoloAvg30: 0.62

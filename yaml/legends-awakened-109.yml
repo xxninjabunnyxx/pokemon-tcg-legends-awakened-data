@@ -1,0 +1,93 @@
+---
+id: dp6-109
+name: Nosepass
+supertype: Pokémon
+subtypes:
+- Basic
+level: '15'
+hp: '70'
+types:
+- Fighting
+evolvesTo:
+- Probopass
+attacks:
+- name: Sharpen
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: '10'
+  text: ''
+- name: Nose Poke
+  cost:
+  - Fighting
+  - Colorless
+  convertedEnergyCost: 2
+  damage: 20+
+  text: If Probopass is on your Bench, this attack does 20 damage plus 20 more damage.
+weaknesses:
+- type: Water
+  value: "+20"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: dp6
+  name: Legends Awakened
+  series: Diamond & Pearl
+  printedTotal: 146
+  total: 146
+  legalities:
+    unlimited: Legal
+  ptcgoCode: LA
+  releaseDate: 2008/08/01
+  updatedAt: 2018/03/04 10:35:00
+  images:
+    symbol: https://images.pokemontcg.io/dp6/symbol.png
+    logo: https://images.pokemontcg.io/dp6/logo.png
+number: '109'
+artist: Ken Sugimori
+rarity: Common
+flavorText: Its nose is a magnet. As a result, this Pokémon always keeps its face
+  pointing north.
+nationalPokedexNumbers:
+- 299
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/dp6/109.png
+  large: https://images.pokemontcg.io/dp6/109_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/dp6-109
+  updatedAt: 2023/09/11
+  prices:
+    normal:
+      low: 0.2
+      mid: 0.3
+      high: 4.39
+      market: 0.32
+      directLow: 0.2
+    reverseHolofoil:
+      low: 0.24
+      mid: 0.5
+      high: 1.99
+      market: 0.24
+      directLow: 0.24
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/dp6-109
+  updatedAt: 2023/09/11
+  prices:
+    averageSellPrice: 0.2
+    lowPrice: 0.02
+    trendPrice: 0.22
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.5
+    reverseHoloLow: 0.15
+    reverseHoloTrend: 0.52
+    lowPriceExPlus: 0.07
+    avg1: 0.18
+    avg7: 0.21
+    avg30: 0.18
+    reverseHoloAvg1: 0.5
+    reverseHoloAvg7: 0.63
+    reverseHoloAvg30: 0.48

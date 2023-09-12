@@ -1,0 +1,98 @@
+---
+id: dp6-25
+name: Deoxys Defense Forme
+supertype: Pokémon
+subtypes:
+- Basic
+level: '50'
+hp: '100'
+types:
+- Psychic
+abilities:
+- name: Form Change
+  text: Once during your turn (before your attack), you may search your deck for any
+    Deoxys and switch it with Deoxys Defense Forme. (Any cards attached to Deoxys
+    Defense Forme, damage counters, Special Conditions, and effects on it are now
+    on the new Pokémon.) If you do, put Deoxys Defense Forme on top of your deck.
+    Shuffle your deck afterward. You can't use more than 1 Form Change Poké-Power
+    each turn.
+  type: Poké-Power
+attacks:
+- name: Psychic Defense
+  cost:
+  - Psychic
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '40'
+  text: During your opponent's next turn, prevent all effects of an attack, and any
+    damage done to Deoxys by attacks is reduced by 20 (after applying Weakness and
+    Resistance).
+weaknesses:
+- type: Psychic
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: dp6
+  name: Legends Awakened
+  series: Diamond & Pearl
+  printedTotal: 146
+  total: 146
+  legalities:
+    unlimited: Legal
+  ptcgoCode: LA
+  releaseDate: 2008/08/01
+  updatedAt: 2018/03/04 10:35:00
+  images:
+    symbol: https://images.pokemontcg.io/dp6/symbol.png
+    logo: https://images.pokemontcg.io/dp6/logo.png
+number: '25'
+artist: Kazuaki Aihara
+rarity: Rare
+flavorText: An alien virus that fell to earth on a meteor underwent a DNA mutation
+  to become this Pokémon.
+nationalPokedexNumbers:
+- 386
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/dp6/25.png
+  large: https://images.pokemontcg.io/dp6/25_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/dp6-25
+  updatedAt: 2023/09/11
+  prices:
+    normal:
+      low: 1.55
+      mid: 3.31
+      high: 7.0
+      market: 3.46
+      directLow: 1.74
+    reverseHolofoil:
+      low: 3.55
+      mid: 5.0
+      high: 9.99
+      market: 1.97
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/dp6-25
+  updatedAt: 2023/09/11
+  prices:
+    averageSellPrice: 1.05
+    lowPrice: 0.19
+    trendPrice: 1.89
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.25
+    reverseHoloLow: 0.19
+    reverseHoloTrend: 3.39
+    lowPriceExPlus: 1.0
+    avg1: 0.67
+    avg7: 1.45
+    avg30: 1.26
+    reverseHoloAvg1: 0.25
+    reverseHoloAvg7: 3.1
+    reverseHoloAvg30: 2.39
